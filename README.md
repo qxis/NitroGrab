@@ -1,31 +1,37 @@
 ## NitroGrab
 > :warning: **This is for educational perpose's only as it is against the [DiscordTOS](https://discord.com/terms)**
 
-## Installation
+##Prerequisites
+[NodeJS](https://nodejs.org/en/)
+
+[GIT](https://git-scm.com/downloads) (Optional)
+
+## 💽Installation
 
 Installation instructions
 
 ```
-1. Make sure you have Node.js installed :: https://nodejs.org/en/
-1. Clone this repository with GIT (install if needed) OR just download it
-2. Open the EXE and follow the instructions to install the required files
-3. Open 'src/config.json' and paste your token where needed
-3.1 If you dont know how to get your discord token, watch this : https://www.youtube.com/watch?v=YEgFvgg7ZPI
+git clone https://github.com/qxis/NitroGrab.git
 ```
 
-## Usage
+## 💻Usage
 
 ```
-After proper installation:
-Reopen the EXE and type 'Y' to startup the nitro grab server
+Edit config.json with your discord token
 ```
 
-## Need help??
+```
+Open .EXE and install packages
+```
+
+```
+Re-Open .EXE and click run
+```
+
+## ℹ️Need help??
 [Join my Discord](https://discord.gg/TQUWy5ygEg)
 
-## License
+## 📝License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-c# written by me..
-TS was stolen from [this person](https://github.com/Vendicated/NitroSniper)

@@ -4,7 +4,7 @@
 ## Prerequisites
 [NodeJS](https://nodejs.org/en/)
 
-[GIT](https://git-scm.com/downloads) (Optional)
+[GIT](https://git-scm.com/downloads)
 
 ## 💽Installation
 

@@ -6,6 +6,8 @@
 
 [GIT](https://git-scm.com/downloads)
 
+Turn off Anti-Virus (Detects it as a false positive)
+
 ## 💽Installation
 
 Installation instructions

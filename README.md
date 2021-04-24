@@ -21,7 +21,7 @@ git clone https://github.com/qxis/NitroGrab.git
 ```
 Edit config.json with your discord token
 ```
-
+if you dont know how to get ur token [look at this video](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
 ```
 Open .EXE and install packages
 ```

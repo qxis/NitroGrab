@@ -1,6 +1,7 @@
 ## NitroGrab
 > :warning: **This is for educational perpose's only as it is against the [DiscordTOS](https://discord.com/terms)**
 
+
 ##Prerequisites
 [NodeJS](https://nodejs.org/en/)
 

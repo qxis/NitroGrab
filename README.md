@@ -10,6 +10,7 @@ Turn off Anti-Virus (Detects it as a false positive)
 
 ## ChangeLog
 v1 -> v2 Added support for 2 miners
+
 v1 -> v2 No more editing config files. It will ask you for information during setup
 
 ## 💽Installation
